@@ -1,17 +1,27 @@
-# auth_screens
+# Flutter Auth Screens
 
-A new Flutter project.
+Clean, ready-to-use authentication screens built with Flutter — login and sign-up UI you can drop into any Flutter app and connect to your own backend.
+
+## Features
+
+- Login and registration screens with a clean, modern layout
+- Form fields with a consistent, reusable structure
+- Built entirely with Flutter widgets — easy to restyle and extend
+
+## Tech Stack
+
+- **Flutter** / **Dart**
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```bash
+git clone https://github.com/zarghamullahshah/auth_screens.git
+cd auth_screens
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Author
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+**Zargham Ullah Shah** — Full Stack Web Developer | Salesforce CRM Specialist
+GitHub: [@zarghamullahshah](https://github.com/zarghamullahshah)
